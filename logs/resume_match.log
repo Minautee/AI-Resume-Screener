@@ -377,3 +377,27 @@
 2025-03-30 20:03:26,163 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\sentiment_analyzer.py', reloading
 2025-03-30 20:03:26,166 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\config.py', reloading
 2025-03-30 20:03:31,015 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 20:03:46,907 - INFO - Use pytorch device_name: cuda
+2025-03-30 20:03:46,907 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 20:03:50,633 - WARNING -  * Debugger is active!
+2025-03-30 20:03:50,641 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 20:10:32,648 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\gemini_prompt.py', reloading
+2025-03-30 20:10:32,659 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\gemini_prompt.py', reloading
+2025-03-30 20:10:35,433 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 20:10:52,688 - INFO - Use pytorch device_name: cuda
+2025-03-30 20:10:52,688 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 20:10:56,016 - WARNING -  * Debugger is active!
+2025-03-30 20:10:56,019 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 20:11:30,157 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\__init__.py', reloading
+2025-03-30 20:11:32,923 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 20:11:51,445 - INFO - Use pytorch device_name: cuda
+2025-03-30 20:11:51,445 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 20:11:54,300 - WARNING -  * Debugger is active!
+2025-03-30 20:11:54,315 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 20:12:30,806 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\config.py', reloading
+2025-03-30 20:12:30,806 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\config.py', reloading
+2025-03-30 20:12:32,891 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 20:12:48,959 - INFO - Use pytorch device_name: cuda
+2025-03-30 20:12:48,959 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 20:12:52,028 - WARNING -  * Debugger is active!
+2025-03-30 20:12:52,038 - INFO -  * Debugger PIN: 137-818-163
