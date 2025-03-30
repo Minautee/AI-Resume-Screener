@@ -1,0 +1,379 @@
+2025-03-30 19:04:13,858 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:04:13,858 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:04:20,547 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.109:8080
+2025-03-30 19:04:20,547 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 19:04:20,563 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:04:34,977 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:04:34,977 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:05:09,690 - WARNING -  * Debugger is active!
+2025-03-30 19:05:09,707 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:05:10,396 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:05:13,137 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:05:33,541 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:05:33,541 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:05:44,440 - WARNING -  * Debugger is active!
+2025-03-30 19:05:44,448 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:05:48,636 - INFO - Analyzing open-ended feedback...
+2025-03-30 19:05:48,636 - INFO - Sending open-ended feedback to Gemini AI...
+2025-03-30 19:05:50,824 - INFO - Raw response from Gemini API: ```json
+{
+  "overall_sentiment": "Negative",
+  "key_concerns": [
+    "Unspecified negative experience"
+  ],
+  "actionable_recommendations": [
+    "Request more specific feedback to understand the issue",
+    "Follow up with the employee to gather details"
+  ]
+}
+```
+2025-03-30 19:05:50,826 - INFO - Cleaned response: {
+  "overall_sentiment": "Negative",
+  "key_concerns": [
+    "Unspecified negative experience"
+  ],
+  "actionable_recommendations": [
+    "Request more specific feedback to understand the issue",
+    "Follow up with the employee to gather details"
+  ]
+}
+2025-03-30 19:05:50,827 - INFO - Open-ended feedback analysis completed successfully.
+2025-03-30 19:05:50,832 - INFO - 127.0.0.1 - - [30/Mar/2025 19:05:50] "POST /sentiment_analysis HTTP/1.1" 200 -
+2025-03-30 19:07:56,409 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:07:56,418 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:07:56,418 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:08:00,214 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:08:19,877 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:08:19,877 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:08:23,210 - WARNING -  * Debugger is active!
+2025-03-30 19:08:23,217 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:09:31,918 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\api.py', reloading
+2025-03-30 19:09:31,919 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\api.py', reloading
+2025-03-30 19:09:34,122 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:09:50,376 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:09:50,376 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:10:03,482 - WARNING -  * Debugger is active!
+2025-03-30 19:10:03,492 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:23:57,660 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:23:57,662 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:23:57,663 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:23:59,444 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:24:15,161 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:24:15,161 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:24:17,903 - WARNING -  * Debugger is active!
+2025-03-30 19:24:17,919 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:24:37,242 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:24:37,243 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:24:37,244 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:24:39,582 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:24:55,280 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:24:55,280 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:24:58,381 - WARNING -  * Debugger is active!
+2025-03-30 19:24:58,381 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:45:52,705 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:45:52,705 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:46:03,972 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.109:8080
+2025-03-30 19:46:03,972 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 19:46:04,006 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:46:22,885 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:46:22,885 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:46:25,922 - WARNING -  * Debugger is active!
+2025-03-30 19:46:25,938 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:46:38,292 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\_pytest\\cacheprovider.py', reloading
+2025-03-30 19:46:38,394 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\_pytest\\fixtures.py', reloading
+2025-03-30 19:46:38,512 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\_pytest\\config\\__init__.py', reloading
+2025-03-30 19:46:38,641 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\_pytest\\capture.py', reloading
+2025-03-30 19:46:38,761 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\_pytest\\doctest.py', reloading
+2025-03-30 19:46:40,890 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:46:56,448 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:46:56,448 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:46:59,324 - WARNING -  * Debugger is active!
+2025-03-30 19:46:59,329 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:47:27,372 - INFO - 127.0.0.1 - - [30/Mar/2025 19:47:27] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-30 19:47:27,442 - INFO - 127.0.0.1 - - [30/Mar/2025 19:47:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-30 19:48:28,166 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:48:28,170 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:48:28,170 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\frontend\\app.py', reloading
+2025-03-30 19:48:30,738 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:48:53,898 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:48:53,898 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:48:56,947 - WARNING -  * Debugger is active!
+2025-03-30 19:48:56,953 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:48:57,442 - INFO - Starting resume extraction process.
+2025-03-30 19:48:57,442 - INFO - Starting resume extraction process.
+2025-03-30 19:48:57,442 - INFO - Sending request to Gemini API...
+2025-03-30 19:49:00,059 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\requests\\api.py', reloading
+2025-03-30 19:49:00,091 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\requests\\sessions.py', reloading
+2025-03-30 19:49:00,116 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\requests\\adapters.py', reloading
+2025-03-30 19:49:00,148 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\urllib3\\connectionpool.py', reloading
+2025-03-30 19:49:00,169 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\urllib3\\util\\retry.py', reloading
+2025-03-30 19:49:00,186 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\urllib3\\util\\util.py', reloading
+2025-03-30 19:49:00,211 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\urllib3\\connection.py', reloading
+2025-03-30 19:49:04,556 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:49:22,974 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:49:22,974 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:49:26,696 - WARNING -  * Debugger is active!
+2025-03-30 19:49:26,703 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:49:41,566 - INFO - Starting resume extraction process.
+2025-03-30 19:49:41,566 - INFO - Starting resume extraction process.
+2025-03-30 19:49:41,566 - INFO - Sending request to Gemini API...
+2025-03-30 19:49:47,677 - INFO - Raw response from Gemini API: ```json
+{
+    "name": "Minautee",
+    "skills": [
+        "Python",
+        "SQL",
+        "LaTeX",
+        "PySpark",
+        "Docker",
+        "Hadoop",
+        "Databricks",
+        "ETL",
+        "GIT",
+        "PostgreSQL",
+        "API Integration",
+        "Snowflake",
+        "DBT",
+        "Airflow",
+        "Azure",
+        "AWS",
+        "Generative AI (GenAI)",
+        "Prompt Engineering",
+        "Langchain",
+        "TensorFlow",
+        "PyTorch",
+        "Power BI",
+        "Excel",
+        "Exploratory Data Analysis (EDA)",
+        "Model Fine-Tuning",
+        "Natural Language Processing (NLP)"
+    ],
+    "education": [
+        "MIT World Peace University Pune, MH 2019-2023\nB.Tech Electrical GPA: 9.5/10"
+    ],
+    "experience": [
+        {
+            "company": "Fractal Analytics",
+            "role": "Imagineer",
+            "duration": "10/2023 - present",
+            "responsibilities": [
+                "Developed and implemented an end-to-end data pipeline for Realtor.com, leveraging dbt to create tables in Snowflake and configuring tasks in Airflow to orchestrate workflows within a DAG. Optimized the pipeline to ensure smooth data flow from source systems to the dashboard, reducing processing time and enhancing data accuracy for real-time decision-making.",
+                "Revamped alerting systems for data anomalies across multiple verticals by integrating time-delta-based metrics, extending monitoring periods, and implementing owner tagging for accountability via Email and Slack. These improvements enabled stakeholders to proactively address anomalies, ensuring accurate dashboards, enhancing data reliability, and fostering trust through timely and actionable insights.",
+                "Developed and implemented a cutting-edge content-based tagging system (GAIT) using Generative AI (GenAI) for Merck Sharpe & Dohme across U.S. markets, with plans to expand globally. Integrated client-specific GPT API endpoint (GPTeal) to ensure secure and compliant tagging of diverse content types. Utilized a comprehensive taxonomy that reduced manual tagging efforts by 73% while significantly improving content categorization accuracy.",
+                "Improved tag prediction accuracy through prompt optimization, generating JSON-formatted outputs with reasoning and keyword analysis for misclassified tags. Additionally, used a critic agent to fine-tune taxonomy definitions, resulting in a 10% increase in future tag predictability, achieving 80% accuracy compared to earlier results.",
+                "Contributed to the CDTGenAI team by developing GenAI applications in the cloud domain and sharing knowledge through newsletters. Authored weekly articles on GenAI use cases and created a RAG-based Q&A chatbot for the team. Used Ollama to generate responses from PDFs uploaded via the Streamlit interface, preprocessing text into chunks and storing them in FAISS for similarity searches."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cycling Race using AWS",
+            "description": "Developed a real-time analytics dashboard on AWS for cyclists, providing better competition insights using Power BI.\nDeployed Amazon Kinesis and RDS to process GPS and registration data, resolving anomalies and loading into DynamoDB.\nIntegrated DynamoDB with Power BI via a Cdata connector for real-time visualizations."
+        },
+        {
+            "title": "WeCure Management System using Azure",
+            "description": "Implemented a data consolidation system on Azure, reducing ad-hoc queries processing time by 30%.\nUtilized Databricks to enhance data quality using medallion architecture by processing and analyzing datasets exceeding 5GB in size using Spark on Databricks, implementing performance tuning techniques like caching and partitioning to improve job efficiency.\nLeveraged Azure Synapse Analytics for ad-hoc queries, boosting efficiency by 40% while ensuring 100% data integrity and compliance."
+        }
+    ],
+    "certifications": [
+        "AWS Certified Solutions Architect (Feb. 2024 - Feb. 2026) - AWS",
+        "Microsoft Certified: Azure Data Engineer Associate (Dec. 2023 - Dec. 2024) - Microsoft Azure",
+        "Google Data Analytics Professional Certificate (May. 2023) - Coursera",
+        "Consulting Bootcamp (Aug. 2022) - Strategy & Co.",
+        "Databricks: Interactive Learning with AI for Medallion, Delta Live Tables & Unity Catalog (Jul. 2024) - Fractal Hive",
+        "Financial Markets, (Jul. 2020) - Coursera"
+    ],
+    "extra_curricular": [],
+    "awards": [],
+    "references": [],
+    "hobbies": []
+}
+```
+2025-03-30 19:49:47,678 - INFO - Cleaned response: {
+    "name": "Minautee",
+    "skills": [
+        "Python",
+        "SQL",
+        "LaTeX",
+        "PySpark",
+        "Docker",
+        "Hadoop",
+        "Databricks",
+        "ETL",
+        "GIT",
+        "PostgreSQL",
+        "API Integration",
+        "Snowflake",
+        "DBT",
+        "Airflow",
+        "Azure",
+        "AWS",
+        "Generative AI (GenAI)",
+        "Prompt Engineering",
+        "Langchain",
+        "TensorFlow",
+        "PyTorch",
+        "Power BI",
+        "Excel",
+        "Exploratory Data Analysis (EDA)",
+        "Model Fine-Tuning",
+        "Natural Language Processing (NLP)"
+    ],
+    "education": [
+        "MIT World Peace University Pune, MH 2019-2023\nB.Tech Electrical GPA: 9.5/10"
+    ],
+    "experience": [
+        {
+            "company": "Fractal Analytics",
+            "role": "Imagineer",
+            "duration": "10/2023 - present",
+            "responsibilities": [
+                "Developed and implemented an end-to-end data pipeline for Realtor.com, leveraging dbt to create tables in Snowflake and configuring tasks in Airflow to orchestrate workflows within a DAG. Optimized the pipeline to ensure smooth data flow from source systems to the dashboard, reducing processing time and enhancing data accuracy for real-time decision-making.",
+                "Revamped alerting systems for data anomalies across multiple verticals by integrating time-delta-based metrics, extending monitoring periods, and implementing owner tagging for accountability via Email and Slack. These improvements enabled stakeholders to proactively address anomalies, ensuring accurate dashboards, enhancing data reliability, and fostering trust through timely and actionable insights.",
+                "Developed and implemented a cutting-edge content-based tagging system (GAIT) using Generative AI (GenAI) for Merck Sharpe & Dohme across U.S. markets, with plans to expand globally. Integrated client-specific GPT API endpoint (GPTeal) to ensure secure and compliant tagging of diverse content types. Utilized a comprehensive taxonomy that reduced manual tagging efforts by 73% while significantly improving content categorization accuracy.",
+                "Improved tag prediction accuracy through prompt optimization, generating JSON-formatted outputs with reasoning and keyword analysis for misclassified tags. Additionally, used a critic agent to fine-tune taxonomy definitions, resulting in a 10% increase in future tag predictability, achieving 80% accuracy compared to earlier results.",
+                "Contributed to the CDTGenAI team by developing GenAI applications in the cloud domain and sharing knowledge through newsletters. Authored weekly articles on GenAI use cases and created a RAG-based Q&A chatbot for the team. Used Ollama to generate responses from PDFs uploaded via the Streamlit interface, preprocessing text into chunks and storing them in FAISS for similarity searches."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cycling Race using AWS",
+            "description": "Developed a real-time analytics dashboard on AWS for cyclists, providing better competition insights using Power BI.\nDeployed Amazon Kinesis and RDS to process GPS and registration data, resolving anomalies and loading into DynamoDB.\nIntegrated DynamoDB with Power BI via a Cdata connector for real-time visualizations."
+        },
+        {
+            "title": "WeCure Management System using Azure",
+            "description": "Implemented a data consolidation system on Azure, reducing ad-hoc queries processing time by 30%.\nUtilized Databricks to enhance data quality using medallion architecture by processing and analyzing datasets exceeding 5GB in size using Spark on Databricks, implementing performance tuning techniques like caching and partitioning to improve job efficiency.\nLeveraged Azure Synapse Analytics for ad-hoc queries, boosting efficiency by 40% while ensuring 100% data integrity and compliance."
+        }
+    ],
+    "certifications": [
+        "AWS Certified Solutions Architect (Feb. 2024 - Feb. 2026) - AWS",
+        "Microsoft Certified: Azure Data Engineer Associate (Dec. 2023 - Dec. 2024) - Microsoft Azure",
+        "Google Data Analytics Professional Certificate (May. 2023) - Coursera",
+        "Consulting Bootcamp (Aug. 2022) - Strategy & Co.",
+        "Databricks: Interactive Learning with AI for Medallion, Delta Live Tables & Unity Catalog (Jul. 2024) - Fractal Hive",
+        "Financial Markets, (Jul. 2020) - Coursera"
+    ],
+    "extra_curricular": [],
+    "awards": [],
+    "references": [],
+    "hobbies": []
+}
+2025-03-30 19:49:47,678 - INFO - Extraction process completed successfully.
+2025-03-30 19:49:47,680 - INFO - 127.0.0.1 - - [30/Mar/2025 19:49:47] "POST /extract_resume HTTP/1.1" 200 -
+2025-03-30 19:50:16,437 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-03-30 19:50:18,369 - INFO -  * Detected change in 'C:\\Users\\Msi\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\transformers\\models\\bert\\modeling_bert.py', reloading
+2025-03-30 19:50:22,572 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-30 19:50:41,281 - INFO - Use pytorch device_name: cuda
+2025-03-30 19:50:41,281 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-30 19:50:44,273 - WARNING -  * Debugger is active!
+2025-03-30 19:50:44,280 - INFO -  * Debugger PIN: 137-818-163
+2025-03-30 19:51:10,323 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-03-30 19:51:15,752 - INFO - 127.0.0.1 - - [30/Mar/2025 19:51:15] "POST /resume_match HTTP/1.1" 200 -
+2025-03-30 19:51:36,621 - INFO - CSV file received for sentiment analysis.
+2025-03-30 19:51:36,624 - INFO - Loading CSV file...
+2025-03-30 19:51:36,643 - INFO - Structured survey responses: {'Employee ID,Name,Department,Position,Last Working Day,Reason for Leaving,Work Environment,Work-Life Balance,Compensation & Benefits,Career Growth,Management Support,Felt Valued,Improvement Suggestions,Would Rejoin,Would Recommend,Additional Comments': ['101,John Doe,Software Engineering,Senior Backend Developer,2025-03-30,Career Growth Opportunity,5,4,3,2,4,Yes,"More structured career progression paths and mentorship programs",Yes,Yes,"Loved working with the team, but promotions were limited. If career growth improves, I\'d love to return."', '102,Jane Smith,Marketing,Marketing Manager,2025-02-15,Personal Reasons,4,5,4,3,5,Yes,"Offer more flexible working hours and remote options",No,Yes,"Great company culture. Leaving was a personal decision, but I recommend it to others."', '103,Michael Brown,Finance,Financial Analyst,2025-01-20,Salary Expectations,3,3,2,3,4,No,"Increase salaries to match market standards",No,No,"Good learning experience, but compensation was below industry standards."', '104,Emily White,Human Resources,HR Executive,2025-04-05,Better Benefits Elsewhere,4,4,3,3,4,Yes,"Introduce more employee wellness programs, better insurance plans",Yes,Yes,"Enjoyed my role, but found better benefits elsewhere."', '105,David Lee,Data Science,Data Scientist,2025-05-10,Relocation,5,5,4,4,5,Yes,"Offer remote work opportunities for employees relocating",No,Yes,"Loved the company, but had to move. Would work here again remotely."', '106,Sophia Green,Customer Support,Support Executive,2025-02-28,Limited Growth Opportunities,3,4,3,2,3,No,"Create clearer promotion paths for non-tech roles",No,No,"Support roles need more career growth options."', '107,Mark Turner,Sales,Sales Executive,2025-06-15,High Work Pressure,3,2,4,3,3,No,"Reduce unrealistic sales targets and increase base salary",No,No,"Sales targets were too aggressive, affecting work-life balance."', '108,Anna Kim,Product Management,Product Manager,2025-07-01,Better Opportunity,5,5,5,4,5,Yes,"Encourage more cross-functional collaboration",Yes,Yes,"Amazing experience. Left for a unique opportunity but would recommend."', '109,Raj Patel,Engineering,Frontend Developer,2025-05-22,Work-Life Balance,4,2,3,3,3,No,"Limit weekend work and overtime",No,No,"Great learning, but the work-life balance was not sustainable."', '110,Linda Wong,Operations,Operations Manager,2025-06-10,Retirement,5,5,4,5,5,Yes,"Continue supporting work-life balance initiatives",N/A,Yes,"A fantastic career here, retiring happily. Would recommend."']}
+2025-03-30 19:51:36,643 - INFO - Sending request to Gemini AI for analysis...
+2025-03-30 19:51:39,375 - INFO - Raw response from Gemini API: ```json
+{
+  "overall_sentiment": "Neutral",
+  "attrition_risk": "Medium",
+  "key_concerns": [
+    "Limited career growth opportunities, especially in non-tech roles",
+    "Compensation below industry standards",
+    "Work-life balance issues due to high work pressure and overtime"
+  ],
+  "actionable_recommendations": [
+    "Implement structured career progression paths and mentorship programs",
+    "Conduct salary benchmarking and adjust compensation to match market standards",
+    "Review sales targets and workload to improve work-life balance"
+  ],
+  "individual_analysis": {
+    "Career Growth": {
+      "sentiment": "Negative",
+      "concerns": "Limited growth opportunities cited by multiple employees, particularly in support roles and general lack of structured career progression.",
+      "recommendations": [
+        "Develop clear career paths for all roles, including non-tech positions.",
+        "Implement mentorship programs to guide employee development.",
+        "Offer training and development opportunities to enhance employee skills."
+      ]
+    },
+    "Compensation & Benefits": {
+      "sentiment": "Negative",
+      "concerns": "Dissatisfaction with compensation, with some employees citing below-market salaries and the appeal of better benefits elsewhere.",
+      "recommendations": [
+        "Conduct regular salary benchmarking to ensure competitive compensation.",
+        "Enhance employee benefits packages, including wellness programs and insurance plans.",
+        "Offer flexible benefits options to cater to diverse employee needs."
+      ]
+    },
+    "Work-Life Balance": {
+      "sentiment": "Negative",
+      "concerns": "Work-life balance issues stemming from high work pressure, aggressive sales targets, and excessive overtime.",
+      "recommendations": [
+        "Re-evaluate sales targets and workload to ensure they are realistic.",
+        "Limit weekend work and overtime.",
+        "Promote a culture that values work-life balance."
+      ]
+    }
+  }
+}
+```
+2025-03-30 19:51:39,379 - INFO - Cleaned response: {
+  "overall_sentiment": "Neutral",
+  "attrition_risk": "Medium",
+  "key_concerns": [
+    "Limited career growth opportunities, especially in non-tech roles",
+    "Compensation below industry standards",
+    "Work-life balance issues due to high work pressure and overtime"
+  ],
+  "actionable_recommendations": [
+    "Implement structured career progression paths and mentorship programs",
+    "Conduct salary benchmarking and adjust compensation to match market standards",
+    "Review sales targets and workload to improve work-life balance"
+  ],
+  "individual_analysis": {
+    "Career Growth": {
+      "sentiment": "Negative",
+      "concerns": "Limited growth opportunities cited by multiple employees, particularly in support roles and general lack of structured career progression.",
+      "recommendations": [
+        "Develop clear career paths for all roles, including non-tech positions.",
+        "Implement mentorship programs to guide employee development.",
+        "Offer training and development opportunities to enhance employee skills."
+      ]
+    },
+    "Compensation & Benefits": {
+      "sentiment": "Negative",
+      "concerns": "Dissatisfaction with compensation, with some employees citing below-market salaries and the appeal of better benefits elsewhere.",
+      "recommendations": [
+        "Conduct regular salary benchmarking to ensure competitive compensation.",
+        "Enhance employee benefits packages, including wellness programs and insurance plans.",
+        "Offer flexible benefits options to cater to diverse employee needs."
+      ]
+    },
+    "Work-Life Balance": {
+      "sentiment": "Negative",
+      "concerns": "Work-life balance issues stemming from high work pressure, aggressive sales targets, and excessive overtime.",
+      "recommendations": [
+        "Re-evaluate sales targets and workload to ensure they are realistic.",
+        "Limit weekend work and overtime.",
+        "Promote a culture that values work-life balance."
+      ]
+    }
+  }
+}
+2025-03-30 19:51:39,380 - INFO - Survey analysis process completed successfully.
+2025-03-30 19:51:39,388 - INFO - 127.0.0.1 - - [30/Mar/2025 19:51:39] "POST /sentiment_analysis HTTP/1.1" 200 -
+2025-03-30 20:03:26,153 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\entity_extractor.py', reloading
+2025-03-30 20:03:26,156 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\gemini_prompt.py', reloading
+2025-03-30 20:03:26,158 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\resume_matcher.py', reloading
+2025-03-30 20:03:26,162 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\resume_parser.py', reloading
+2025-03-30 20:03:26,163 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\app\\sentiment_analyzer.py', reloading
+2025-03-30 20:03:26,166 - INFO -  * Detected change in 'D:\\Practice\\Unstop_Assignment\\config.py', reloading
+2025-03-30 20:03:31,015 - INFO -  * Restarting with watchdog (windowsapi)

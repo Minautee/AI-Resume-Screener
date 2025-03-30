@@ -1,0 +1,10 @@
+Flask
+streamlit
+pdfminer.six
+python-docx
+spacy
+sentence-transformers
+vaderSentiment
+google-generativeai
+pdfplumber
+torch==2.6.0
