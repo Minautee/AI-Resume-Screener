@@ -401,9 +401,11 @@
 2025-03-30 20:12:48,959 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
 2025-03-30 20:12:52,028 - WARNING -  * Debugger is active!
 2025-03-30 20:12:52,038 - INFO -  * Debugger PIN: 137-818-163
+
 2025-03-30 20:15:18,330 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp437.py', reloading
 2025-03-30 20:15:20,542 - INFO -  * Restarting with watchdog (windowsapi)
 2025-03-30 20:15:39,508 - INFO - Use pytorch device_name: cuda
 2025-03-30 20:15:39,508 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
 2025-03-30 20:15:43,357 - WARNING -  * Debugger is active!
 2025-03-30 20:15:43,363 - INFO -  * Debugger PIN: 137-818-163
+=======
