@@ -24,20 +24,20 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
-### **:2 Create a Virtual Environment and Install Dependencies**
+### **2️⃣ Create a Virtual Environment and Install Dependencies**
 
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ## **🛠️ Running the Application**
-### **:3 Start the Flask API**
+### **3️⃣ Start the Flask API**
 ```sh
 cd backend
 python api.py
 ```
 
-### **:4 Start the Streamlit Frontend**
+### **4️⃣ Start the Streamlit Frontend**
 ```sh
 cd frontend
 streamlit run app.py
